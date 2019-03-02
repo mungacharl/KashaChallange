@@ -2,3 +2,5 @@ SELECT COUNT(*) AS Orders, COUNT(DISTINCT customer) AS Customers, total AS Reven
 FROM customers
 GROUP BY Month;
 
+
+sdssbvvbvn
