@@ -1,6 +1,0 @@
-SELECT COUNT(*) AS Orders, COUNT(DISTINCT customer) AS Customers, total AS Revenue, datename(month date) AS Month
-FROM customers
-GROUP BY Month;
-
-
-sdssbvvbvn
